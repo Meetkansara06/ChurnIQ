@@ -147,7 +147,7 @@ st.markdown("""
 <div class="hero">
     <div class="hero-label">CUSTOMER RETENTION INTELLIGENCE</div>
     <h1 style="margin: 12px 0;">
-        Telecom Customer Churn Prediction
+        ChurnIQ
     </h1>
     <div class="hero-subtitle">
         Enter customer information to estimate churn probability
